@@ -5,3 +5,4 @@ Mon fichier README se trouve ici : [README](https://gist.github.com/ISSAKAO/61f1
 
 Mon CV se trouve ici : [MONCV](http://issakao.github.io/) et le dossier de [mon CV](https://github.com/ISSAKAO/MONCV)
 
+[les commandes de base de github] (https://github.com/ISSAKAO/Commade-de-base-Github/blob/master/README.md)
